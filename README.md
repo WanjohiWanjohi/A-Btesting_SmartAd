@@ -14,7 +14,7 @@ This divides the population into two groups:
 1. Those exposed to an ad by SmartAd(exposed)
 2. Those shown a dummy ad (control)
 
-Our null hyoothesis (Ho) = there is no difference in brand awareness between the exposed and control groups
+Our null hyoothesis (Ho) =  the change in the advertisement made for the exposed group would result in no change in the conversion rate
 
 # Method
 
